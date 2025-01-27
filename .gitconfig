@@ -1,0 +1,7 @@
+[user]
+	name = alifrahman
+	email = alifrahman2023@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
